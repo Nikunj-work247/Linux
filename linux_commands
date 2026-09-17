@@ -1,0 +1,74 @@
+# ls - List files and directories in the current directory
+ls
+
+# pwd - Print the current working directory
+pwd
+
+# mkdir - Create a new directory
+mkdir abc
+
+# cd - Change the current directory
+cd abc
+
+# rmdir - Remove an empty directory
+rmdir abc
+
+# cd - Return to the home directory
+cd
+
+# mkdir - Create a new directory named xyz
+mkdir xyz
+
+# cd - Enter the xyz directory
+cd xyz
+
+# touch - Create an empty text file
+touch example.txt
+
+# cat - Display the contents of a file
+cat example.txt
+
+# nano - Open a file in the terminal text editor
+nano example2.txt
+
+# cp - Copy the contents of one file to another
+cp example.txt example3.txt
+
+# mv - Rename or move a file/directory
+mv Downloads downloads
+
+# mv - Rename the directory back to its original name
+mv downloads Downloads
+
+# rm - Delete a file
+rm example3.txt
+
+# rm - Delete another file
+rm example.txt
+
+# uname - Display system information
+uname
+
+# locate - Search for a file using its name
+locate example2.txt
+
+# sudo apt install - Install a package with administrator privileges
+sudo apt install plocate
+
+# ln -s - Create a symbolic link
+ln -s example4.txt link1.txt
+
+# ln -s - Create another symbolic link to the same file
+ln -s example4.txt link2.txt
+
+# ls -l - Display files with detailed information
+ls -l
+
+# ls -l - Display detailed information about a specific symbolic link
+ls -l link2.txt
+
+# ps - Display currently running processes
+ps
+
+#man-used to display command manuals.
+man touch
