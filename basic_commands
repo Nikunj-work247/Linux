@@ -1,0 +1,11 @@
+git status
+git add . 
+git commit -m "commit message"
+git push -u origin main 
+git fetch 
+git clone
+git remote -v
+git checkout 
+git log
+git branch 
+git switch 
